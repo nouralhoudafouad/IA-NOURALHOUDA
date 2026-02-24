@@ -5,12 +5,7 @@
 
 
 <img src="https://github.com/user-attachments/assets/9606d462-735a-401a-8d8f-a15fd7cab70f" width="200"> 
-GHADA CHAKHTOUN
-<img src="https://github.com/user-attachments/assets/aab39e9b-9f9d-45b2-a521-df8d07a4a965" width="200"> 
-DGHOUGHI CHOROUK
-<img src="https://github.com/user-attachments/assets/375847a3-ac52-466e-b0f1-5419f2c22c8b" width="200"
- 
-ZAHIA ELALAOUI EL AMRANI
+NOUR AL HOUDA FOUAD 
 
 
 
